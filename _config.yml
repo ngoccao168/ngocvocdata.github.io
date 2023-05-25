@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title-img: "/assets/img/avatar.jpeg"
+title-img: "/assets/img/avatar.jpeg/to/image"
 
 # Your name to show in the footer
 author: Cao Diệu Ái Ngọc
@@ -51,14 +51,14 @@ round-avatar: false
 social-network-links:
   email: "caodieuaingoc.168@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: ngoccao168
+  github: ngoccao168
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: ngoccao168
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -79,7 +79,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
