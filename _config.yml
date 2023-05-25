@@ -20,11 +20,16 @@ author: Cao Diệu Ái Ngọc
 ###############################################
 
 navbar-links:
+  Data:
+  Phật giáo:
+  Suy ngẫm:
+  Đi đó đi đây:
+  Portforlio:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
